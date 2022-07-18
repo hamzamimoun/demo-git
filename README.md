@@ -1,7 +1,9 @@
 # Demo git
 
 ## Présentation
-Ce **projet** a pour but de mettre en oeuvre `git`.
+Ce **projet** a pour but de mettre en oeuvre 
+Vous trouverez aussi un fichier `main.py`
+`git`.
 
 # Création d'un projet avec Git
 Dans votre dossier lancez la commande:
